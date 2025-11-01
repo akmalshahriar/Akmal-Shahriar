@@ -1,0 +1,5 @@
+{
+  "name": "AS AI Design",
+  "description": "An interactive poster designing app that uses AI to transform your product photos into stunning promotional posters. Upload your product, describe your vision, and let Gemini generate and refine your design. Save your favorite creations in a drag-and-drop panel.",
+  "requestFramePermissions": []
+}
